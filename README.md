@@ -1,5 +1,6 @@
 # Lok Sabha Election 2019: Data Analysis and Visualization using Python
-This is my first Data Science project. From a very young age, I have had a keen interest in politics. So what better way to start my journey as an amateur Data Scientist to choose a topic that excites me. I have decided to learn various skills related to Data Science by working on this project. I shall keep updating this notebook with new content as I go through numerous video lectures on websites such as Datacamp and Udemy.<br><br>
+<p align=center><img src="https://img.shields.io/badge/Last%20Commit-April-brightgreen" hspace=20> <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></p>
+<p>This is my first Data Science project. From a very young age, I have had a keen interest in politics. So what better way to start my journey as an amateur Data Scientist to choose a topic that excites me. I have decided to learn various skills related to Data Science by working on this project. I shall keep updating this notebook with new content as I go through numerous video lectures on websites such as Datacamp and Udemy.</p><br><br>
 <img src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F5c2322c8-7deb-11e9-81d2-f785092ab560?fit=scale-down&source=next&width=700" width="900">
 
 ## 1. Table of contents
