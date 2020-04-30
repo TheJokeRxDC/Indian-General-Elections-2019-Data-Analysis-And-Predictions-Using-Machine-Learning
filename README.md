@@ -22,7 +22,38 @@
 - Plotly v4.5.2
 - Numpy v1.17.4
 
-## 3. Contact me
+## 3. Instructions
+- <p>Step 1: Install the necessary packages by running the pip commands in the Terminal. </p>
+    
+    - Install Pandas
+    ```
+    $ pip install pandas
+    ```
+    - Install Numpy
+    ```
+    $ pip install numpy
+    ```
+    - Install Matplotlib
+    ```
+    $ pip install matplotlib
+    ```
+    - Intall Plotly
+    ```
+    $ pip install plotly
+    ```
+- <p>Step 2: Clone the repository to your local hard drive. This can be done in either of the two ways -> </p>
+    
+    - <p>Click on the Clone or Download tab on the top right side of the repository page and download the repository as a zip       file. </p>
+    
+    - <p> Run the following git command in your Terminal. </p>
+    ```
+    $ git clone https://github.com/TheJokeRxDC/lok-sabha-election-2019.git
+    ```
+- <p>Step 3: Open the LokSabhaElections2019DataAnalysis.ipynb notebook.</p>
+
+    - <p>Click on Kernel -> Restart & Run All </p>
+
+## 4. Contact me
 - Github: github.com/TheJokeRxDC
 
 <b>*Note: All the data have been collected from the internet. There may be errors in the data which have been used in this project. Please check with reliable sources for facts and figures.</b>
