@@ -8,7 +8,7 @@
 3. Gathering the data :white_check_mark:
 4. Features :white_check_mark:
 5. Exploratory Data Analysis (EDA) :hourglass:
-    - Lok sabha 2019: Election results :white_check_mark:
+    - Lok sabha 2019: Election results
     - Party-wise vote share
     - Age distribution of candidates
 6. Preparing the data :white_check_mark:
