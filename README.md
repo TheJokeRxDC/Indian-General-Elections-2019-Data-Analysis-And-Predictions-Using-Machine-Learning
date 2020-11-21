@@ -23,7 +23,7 @@
     - Confusion matrix
     - ROC Curve
     - Cross-validated metrics
-9. Conclusion
+9. Conclusion :white_check_mark:
 
 ## Results
 - Random Forest Classifier - 97.4%
