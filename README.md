@@ -26,6 +26,6 @@
 9. Conclusion :white_check_mark:
 
 ## Results
-- Random Forest Classifier - 97.4%
-- Support Vector Machine Classifier - 95.8%
-- K-Nearest Neighbor - 92.5%
+- Random Forest Classifier - 97.4% Accuracy
+- Support Vector Machine Classifier - 95.8% Accuracy
+- K-Nearest Neighbor - 92.5% Accuracy
